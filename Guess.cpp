@@ -1,4 +1,4 @@
 int number;
 int guessnumber;
-if(number == guessnumber) print("Youre right hello you");
+if(number == guessnumber) print("Youve guess the right number");
 else print("Wrong try again");
